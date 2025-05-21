@@ -16,3 +16,8 @@ function markDown(){
 }
 }
 ```
+
+### Tasks to do 
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
