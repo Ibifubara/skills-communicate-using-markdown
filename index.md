@@ -7,3 +7,12 @@
 
 
 ![Image of something](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+function markDown(){
+  for(alpha of alphabets){
+    alpha ++
+}
+}
+```
