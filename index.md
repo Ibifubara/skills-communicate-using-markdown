@@ -4,3 +4,6 @@
 #### It saves a lot of time spent hard typing
 ##### I hope to get comfortable using it soon
 ###### It's so cool
+
+
+![Image of something](https://octodex.github.com/images/yaktocat.png)
